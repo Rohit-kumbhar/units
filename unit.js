@@ -31,7 +31,7 @@ var val_16 = ["Liter/second", "Liter/minute","Meter cube/hour","Foot cube/minute
 function show(){
 
 
-	for(var i = 0;i < 7;i++)
+	for(var i = 0;i < 8;i++)
 	{
 		document.getElementById(i).innerHTML = '';
 		document.getElementById(i+'1').innerHTML = '';
